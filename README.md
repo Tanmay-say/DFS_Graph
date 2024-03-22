@@ -1,7 +1,7 @@
 # DFS_Graph
 
 ## DFS
-### Code : [main.py](file_path)
+### Code : [main.py](https://github.com/Tanmay-say/DFS_Graph/blob/main/DFS.py)
 ```
 romania_graph = {
     "Arad": {"Zerind": 75, "Timisoara": 118, "Sibiu": 140},
@@ -50,7 +50,7 @@ print(dfs(source, destination))
 Arad->Sibiu->Rimnicu Vilcea->Pitesti->Bucharest->True
 ````
 ## Limited_DFS
-### Code :
+### Code : [main.py](https://github.com/Tanmay-say/DFS_Graph/blob/main/Limited_DFS.py)
 
 ```
 romania_graph = {
@@ -103,7 +103,7 @@ print(limited_dfs(source, destination, depth_limit))
 Arad->Sibiu->Rimnicu Vilcea->Pitesti->Craiova->Fagaras->Bucharest->True
 ````
 ## Iterative_Deepening_DFS
-### Code :
+### Code : [main.py](https://github.com/Tanmay-say/DFS_Graph/blob/main/Iterative_Deepening_DFS.py)
 ```
 romania_graph = {
     "Arad": {"Zerind": 75, "Timisoara": 118, "Sibiu": 140},
